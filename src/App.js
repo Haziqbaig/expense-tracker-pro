@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  PlusCircle, Trash2, Edit2, LogOut, DollarSign, TrendingDown, TrendingUp, 
-  Calendar, Filter, X, Check, CheckCircle, AlertCircle, Info, XCircle,
+  PlusCircle, Trash2, Edit2, LogOut, DollarSign, X, Check, CheckCircle, AlertCircle, Info, XCircle,
   Wallet, PiggyBank, Target, Search, Download, Eye, EyeOff, BarChart3,
   ArrowUpCircle, ArrowDownCircle, Coffee, Car, Gamepad2, Home, Heart,
   ShoppingCart, MoreHorizontal, Briefcase, Gift, Coins, CreditCard,
